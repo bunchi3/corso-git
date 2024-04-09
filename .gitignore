@@ -1,0 +1,7 @@
+#Serve a far ignorare a git certi file e/o cartelle
+
+#Directory 
+temp
+
+#Files
+*.log
